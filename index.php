@@ -41,8 +41,8 @@
     use Facebook\GraphSessionInfo;
 
     //2.Use app id,secret and redirect url
-     $app_id = '939794722706691';
-     $app_secret = '3e23293871d1998861641bd22238e658';
+     $app_id = 'appid';
+     $app_secret = 'secret';
      $redirect_url='http://www.tangelotown.org/facebook/index.php';
      
      //3.Initialize application, create helper object and get fb sess
